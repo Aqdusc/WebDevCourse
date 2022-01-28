@@ -5,3 +5,8 @@ It has the source code folder where the index.html file has been pushed from the
 In the documentation we have added the .pdf file explaining the ICP and also few screenshots.
 Finally in the ICP1 we have pulled the repository and forked it coupled with issues request.
 Finally we have forked an existing repository.
+
+###Aqdus Charolia
+###aacy5x@mail.umkc.edu
+###Affan Charolia
+###aacbb8@mail.umkc.edu
