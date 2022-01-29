@@ -1,0 +1,57 @@
+/* Formatting the title */
+#title{
+    color: red;
+    font-family: "Academy Engraved LET";
+    border: black;
+    text-align: center;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: darkslategray;
+    overflow: hidden;
+    padding-left: 355px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: "Arial";
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: navajowhite;
+    color: black;
+}
+
+
+
+/* Formatting the about div section*/
+#about{
+    text-align: center;
+    font-family: Arial;
+    color: black;
+}
+
+/* Formatting the projects, publications and Skills div section*/
+#projects{
+    font-family: Arial;
+    color: black;
+}
+
+#publications{
+    font-family: Arial;
+    color: black;
+}
+
+#skills{
+    font-family: Arial;
+    color: black;
+}
